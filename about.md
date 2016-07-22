@@ -3,28 +3,20 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+## Purpose
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+I am new to blogging and working in the software development industry. I'll be writing about my experiences (in school, work, and at home) along with interesting, informative development and security findings. This blog will chronical my journey through life in which a new chapter has begun.
 
-There are currently two themes built on Poole:
+## Career
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+I am a Junior Software Engineer at [Rubio's](http://rubios.com) working on their IT development team. I have previous experience working within the restaurant industry so this was a seamless fit and decision for me. I am interested in our data collection and processing and enjoy designing, creating, and implementing tools to perform these tasks. I will also be looking for ways to incorporate and apply my newly learned cybersecurity methodolgies into my everyday work environment. 
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+I am currently enrolled in the Professional Science Masters (PSM) program in Cybersecurity at the California State University San Marcos (CSUSM). I have completed my first year and will be wrapping up the program this upcoming Spring. I also completed my undergraduate studies at CSUSM with a Bachelor's of Science degree in Computer Science.
 
-## Setup
+You can find some of my univeristy development projects on my [GitHub](http://github.com/ryanmiller810) page.
 
-Some fun facts about the setup of this project include:
+## Family
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+I've been married to my beautiful wife for six years. We have two young boys together who we love and adore. We enjoy playing soccer, Nintendo, visiting Disneyland, and being outside. I am also a huge craft beer fan!  
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+That's a little about myself in a nutshell. Thanks for reading!
