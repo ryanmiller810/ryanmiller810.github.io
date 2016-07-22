@@ -24,8 +24,8 @@ github:
   repo:           https://github.com/ryanmiller810/ryanmiller810.github.io
 
 # This is the list of pages to include in the sidebar
-#pages_list:
-#About: '/about/'
-#Archive: '/archive/'
-#Feed: '/atom.xml'
+pages_list:
+About: '/about/'
+Archive: '/archive/'
+Feed: '/atom.xml'
 ## TODO(Ryan) - Need to figure the action routing out ##
