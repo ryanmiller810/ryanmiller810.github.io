@@ -10,7 +10,7 @@ title:            Ryan Miller
 tagline:          Father | Developer | Student
 description:      'Father | Developer | Student'
 url:              https://ryanmiller810.github.io
-baseurl:          ryanmiller810.github.io/
+baseurl:          /
 
 author:           
   name:           'Ryan Miller'
