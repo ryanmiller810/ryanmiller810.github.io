@@ -11,7 +11,7 @@ I am new to blogging and working in the software development industry. I'll be w
 
 I am a Junior Software Engineer at [Rubio's](https://www.rubios.com) working on their IT development team. I have previous experience working within the restaurant industry so this was a seamless fit and decision for me. I am interested in our data collection and processing and enjoy designing, creating, and implementing tools to perform these tasks. I will also be looking for ways to incorporate and apply my newly learned cybersecurity methodolgies into my everyday work environment. 
 
-I am currently enrolled in the Professional Science Masters (PSM) program in Cybersecurity at the California State University San Marcos (CSUSM). I have completed my first year and will be wrapping up the program this upcoming Spring. I also completed my undergraduate studies at CSUSM with a Bachelor's of Science degree in Computer Science.
+I am currently enrolled in the Professional Science Masters (PSM) program in Cybersecurity at the California State University San Marcos (CSUSM). I have completed my first year and will be wrapping up the program this upcoming Spring. I also completed my undergraduate studies at CSUSM with a Bachelors of Science degree in Computer Science.
 
 You can find some of my univeristy development projects on my [GitHub](http://github.com/ryanmiller810) page.
 
