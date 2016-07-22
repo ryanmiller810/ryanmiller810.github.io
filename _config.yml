@@ -9,12 +9,11 @@ permalink:        pretty
 title:            Ryan Miller
 tagline:          Father | Developer | Student
 description:      'Father | Developer | Student'
-url:              http://hyde.getpoole.com
-baseurl:          /
+url:              https://ryanmiller810.github.io
 
-author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+author:           
+  name:           'Ryan Miller'
+  url:            
 
 paginate:         5
 
@@ -22,4 +21,10 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/ryanmiller810/ryanmiller810.github.io
+
+# This is the list of pages to include in the sidebar
+pages_list:
+About: '/about/'
+Archive: '/archive/'
+Feed: '/atom.xml'
